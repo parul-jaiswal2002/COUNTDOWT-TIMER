@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: palevioletred;
+    color: white;
+    text-align: center;
+}
+#displayTime{
+   width: 70px;
+   height: 70px;
+   margin-top: 30px;
+   font-size: 40px;
+}
+input{
+    height: 40px;
+    width: 50%;
+    
+}
